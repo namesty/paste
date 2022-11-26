@@ -1,7 +1,7 @@
 [package]
-name = "paste"
-version = "1.0.9"
-authors = ["David Tolnay <dtolnay@gmail.com>"]
+name = "polywrap_paste"
+version = "1.0.0"
+authors = ["David Tolnay <dtolnay@gmail.com>", "Nestor Amesty <nestor@polywrap.io>"]
 categories = ["development-tools", "no-std"]
 description = "Macros for all your token pasting needs"
 edition = "2018"
